@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(
       const MaterialApp(
-        title: "Travel Demo",
+        title: "Travel Demo__",
         home: HomePage(),
         debugShowCheckedModeBanner: false,
       ),
@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
           ),
 
           title: const Text(
-            'Hello, Username CuongLea',
+            'Hello,CuongLea',
             style: TextStyle(fontSize: 18),
           ),
           centerTitle: true,
