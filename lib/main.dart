@@ -40,7 +40,7 @@ class _HomePageState extends State<HomePage> {
           ),
 
           title: const Text(
-            'Hello, Username',
+            'Hello, Username Hoanganh',
             style: TextStyle(fontSize: 18),
           ),
           centerTitle: true,
